@@ -1,54 +1,64 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/felipinx7/felipinx7/main/name.svg" alt="Felipe Lima" />
+  👋 Olá, me chamo Felipe Lima!
 </h1>
 
-## Hey! 👋
-I'm **Felipe Lima**, a 16-year-old passionate developer from Brazil.  
-I love creating **clean, modern, and performant web apps** using the latest tools and technologies.  
-
-- 🌱 Always learning new frameworks, tools, and best practices.  
-- 💻 Focused on **Next.js, React, Vite, Node.js, Tailwind CSS, Axios** and everything web-related.  
-- ⚡ I enjoy building **high-quality UI/UX, responsive apps, and dynamic projects**.  
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+Sou estudante de Desenvolvimento de Sistemas, apaixonado por **Frontend** e criação de interfaces modernas, responsivas e acessíveis.  
+Sempre aprendendo novas tecnologias, frameworks e boas práticas para entregar **experiências digitais de qualidade**. 🚀
+</p>
 
 ---
 
-## 🛠 Technologies & Tools
-
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" />]
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />]
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25" />]
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="25" />]
-[<img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" height="25" />]
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25" />]
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" height="25" />]
-[<img src="https://img.shields.io/badge/Axios-282C34?logo=axios&logoColor=FFFFFF" height="25" />]
-[<img src="https://img.shields.io/badge/Styled-Components-282C34?logo=styled-components&logoColor=DB7093" height="25" />]
-[<img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=blue" height="25" />]
-[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" height="25" />]
-[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" />]
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25" />]
+## 🎯 Objetivo
+Atuar como **Desenvolvedor Frontend**, entregando interfaces funcionais, bonitas e com foco em **performance e usabilidade**.
 
 ---
 
-## 📖 Currently Learning / Improving
+## 🛠 Linguagens e Tecnologias
 
-[<img src="https://img.shields.io/badge/Clean%20Architecture-282C34?logo=architecture&logoColor=white" height="25" />]
-[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="25" />]
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="25" />]
-[<img src="https://img.shields.io/badge/NextAuth.js-282C34?logo=nextdotjs&logoColor=white" height="25" />]
+<b>Linguagens:</b> HTML, CSS, JavaScript, TypeScript<br>
+<div style="display: inline_block; margin-bottom: 10px;"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</div>
+
+<b>Frameworks e Bibliotecas:</b> React, Next.js, Vite, Tailwind CSS, Styled Components<br>
+<div style="display: inline_block; margin-bottom: 10px;"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Vite" height="30" width="40" src="https://vitejs.dev/logo.svg">
+  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+  <img align="center" alt="Styled Components" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
+</div>
+
+<b>Ferramentas e Práticas:</b> Git, GitHub, Versionamento, Componentização, Consumo de APIs, Deploy com Vercel, Figma, Photoshop, Illustrator, Inkscape, Krita  
 
 ---
 
-## 🔍 Where to find me
-
-[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" height="25" />](https://github.com/felipinx7)
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" height="25" />](https://www.linkedin.com/in/felipe-lima-7a2a791b2/)
-[<img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=1DA1F2" height="25" />](https://twitter.com/felipinx7)
+## 💡 UX / Design Digital
+Experiência em criação de interfaces, protótipos e design digital com foco em **usabilidade, estética e experiência do usuário**.
 
 ---
 
-## ⚡ Fun Fact
-I enjoy **exploring new tech stacks**, building small projects for practice, and sharing knowledge with others.  
-My goal is to become a **full-stack developer ready for any challenge**. 🚀
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=felipinx7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipinx7&theme=tokyonight&layout=compact&langs_count=6" />
+</p>
+<br/><br/>
+
+---
+
+## 🔍 Contato
+
+<div>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/seuusuario/">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
