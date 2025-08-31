@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1 align="center">
   👋 Olá, me chamo Felipe Lima!
 </h1>
 
