@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-Sou estudante de Desenvolvimento de Sistemas, apaixonado por **Frontend** e criação de interfaces modernas, responsivas e acessíveis.  
-Sempre aprendendo novas tecnologias, frameworks e boas práticas para entregar **experiências digitais de qualidade**. 🚀
+Sou estudante de Desenvolvimento de Sistemas, apaixonado por Frontend e criação de interfaces modernas, responsivas e acessíveis.  
+Sempre aprendendo novas tecnologias, frameworks e boas práticas para entregar experiências digitais de qualidade. 🚀
 </p>
 
 ---
