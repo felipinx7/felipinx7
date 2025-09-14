@@ -33,6 +33,16 @@ Atuar como **Desenvolvedor Frontend**, entregando interfaces funcionais, bonitas
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="25" />]
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="25" />]
 [<img src="https://img.shields.io/badge/NextAuth.js-282C34?logo=nextdotjs&logoColor=white" height="25" />]
+[<img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" height="25" />]
+[<img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" height="25" />]
+[<img src="https://img.shields.io/badge/Zod-282C34?logo=zod&logoColor=white" height="25" />]
+[<img src="https://img.shields.io/badge/shadcn.ui-282C34?logo=shadcn&logoColor=white" height="25" />]
+[<img src="https://img.shields.io/badge/Axios-282C34?logo=axios&logoColor=FFFFFF" height="25" />]
+[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" height="25" />]
+[<img src="https://img.shields.io/badge/Prettier-282C34?logo=prettier&logoColor=F7B93E" height="25" />][<img src="https://img.shields.io/badge/PNPM-282C34?logo=pnpm&logoColor=F69220" height="25" />]
+[<img src="https://img.shields.io/badge/Yarn-282C34?logo=yarn&logoColor=2C8EBB" height="25" />]
+[<img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=CB3837" height="25" />]
+
 
 ---
 
