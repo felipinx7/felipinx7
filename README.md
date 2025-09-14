@@ -42,6 +42,8 @@ Atuar como **Desenvolvedor Frontend**, entregando interfaces funcionais, bonitas
 [<img src="https://img.shields.io/badge/Prettier-282C34?logo=prettier&logoColor=F7B93E" height="25" />][<img src="https://img.shields.io/badge/PNPM-282C34?logo=pnpm&logoColor=F69220" height="25" />]
 [<img src="https://img.shields.io/badge/Yarn-282C34?logo=yarn&logoColor=2C8EBB" height="25" />]
 [<img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=CB3837" height="25" />]
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" height="25" />]
+
 
 
 ---
