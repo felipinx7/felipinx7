@@ -40,10 +40,7 @@ Atuar como **Desenvolvedor Frontend**, entregando interfaces funcionais, bonitas
 Experiência em design de interfaces, prototipagem e ferramentas digitais com foco em **usabilidade, estética e experiência do usuário**:  
 
 - Figma  
-- Photoshop  
-- Illustrator  
-- Inkscape  
-- Krita  
+- Photoshop   
 
 ---
 
