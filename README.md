@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Desenvolvedor Frontend focado na criação de interfaces modernas, responsivas e acessíveis.
+Desenvolvedor focado na criação de interfaces modernas, responsivas e acessíveis.
 Experiência com React, TypeScript e boas práticas de desenvolvimento, buscando sempre performance e qualidade nas soluções. 
 </p
 
